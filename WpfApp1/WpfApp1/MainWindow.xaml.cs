@@ -4,11 +4,12 @@ using System.Threading.Tasks;
 using System.Windows;
 using jakaApi;
 using jkType;
-//testttt git lan 2
-//thang here
-//minhhh lan 3
-//thang da o day 
-//minh lan 4
+//cmt lan 1
+
+
+
+
+
 namespace WpfApp1
 {
     public partial class MainWindow : Window
