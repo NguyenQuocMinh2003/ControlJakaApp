@@ -7,6 +7,7 @@ using jkType;
 //testttt git lan 2
 //thang here
 //minhhh lan 3
+//thang da o day 
 namespace WpfApp1
 {
     public partial class MainWindow : Window
