@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using jakaApi;
 using jkType;
-//testttt git
+//testttt git lan 2
 namespace WpfApp1
 {
     public partial class MainWindow : Window
