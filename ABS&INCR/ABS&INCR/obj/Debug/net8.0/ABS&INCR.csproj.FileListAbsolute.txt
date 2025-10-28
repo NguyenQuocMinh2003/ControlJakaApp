@@ -1,0 +1,14 @@
+D:\Downloads\Vs_tim'\ABS&INCR\ABS&INCR\bin\Debug\net8.0\ABS&INCR.exe
+D:\Downloads\Vs_tim'\ABS&INCR\ABS&INCR\bin\Debug\net8.0\ABS&INCR.deps.json
+D:\Downloads\Vs_tim'\ABS&INCR\ABS&INCR\bin\Debug\net8.0\ABS&INCR.runtimeconfig.json
+D:\Downloads\Vs_tim'\ABS&INCR\ABS&INCR\bin\Debug\net8.0\ABS&INCR.dll
+D:\Downloads\Vs_tim'\ABS&INCR\ABS&INCR\bin\Debug\net8.0\ABS&INCR.pdb
+D:\Downloads\Vs_tim'\ABS&INCR\ABS&INCR\obj\Debug\net8.0\ABS&INCR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Vs_tim'\ABS&INCR\ABS&INCR\obj\Debug\net8.0\ABS&INCR.AssemblyInfoInputs.cache
+D:\Downloads\Vs_tim'\ABS&INCR\ABS&INCR\obj\Debug\net8.0\ABS&INCR.AssemblyInfo.cs
+D:\Downloads\Vs_tim'\ABS&INCR\ABS&INCR\obj\Debug\net8.0\ABS&INCR.csproj.CoreCompileInputs.cache
+D:\Downloads\Vs_tim'\ABS&INCR\ABS&INCR\obj\Debug\net8.0\ABS&INCR.dll
+D:\Downloads\Vs_tim'\ABS&INCR\ABS&INCR\obj\Debug\net8.0\refint\ABS&INCR.dll
+D:\Downloads\Vs_tim'\ABS&INCR\ABS&INCR\obj\Debug\net8.0\ABS&INCR.pdb
+D:\Downloads\Vs_tim'\ABS&INCR\ABS&INCR\obj\Debug\net8.0\ABS&INCR.genruntimeconfig.cache
+D:\Downloads\Vs_tim'\ABS&INCR\ABS&INCR\obj\Debug\net8.0\ref\ABS&INCR.dll
