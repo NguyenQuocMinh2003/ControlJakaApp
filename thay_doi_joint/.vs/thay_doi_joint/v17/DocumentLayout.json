@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\Vs_tim\u0027\\thay_doi_joint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFD13CA-EE4B-4F92-AA01-93A73743BCED}|thay_doi_joint\\thay_doi_joint.csproj|d:\\downloads\\vs_tim\u0027\\thay_doi_joint\\thay_doi_joint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFD13CA-EE4B-4F92-AA01-93A73743BCED}|thay_doi_joint\\thay_doi_joint.csproj|solutionrelative:thay_doi_joint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Vs_tim\u0027\\ConsoleApp2\\ConsoleApp2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Vs_tim\u0027\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\Vs_tim\u0027\\thay_doi_joint\\thay_doi_joint\\Program.cs",
+              "RelativeDocumentMoniker": "thay_doi_joint\\Program.cs",
+              "ToolTip": "D:\\Downloads\\Vs_tim\u0027\\thay_doi_joint\\thay_doi_joint\\Program.cs",
+              "RelativeToolTip": "thay_doi_joint\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwGcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T06:29:10.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\Vs_tim\u0027\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "ToolTip": "D:\\Downloads\\Vs_tim\u0027\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T06:55:14.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\Vs_tim\u0027\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\Downloads\\Vs_tim\u0027\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAADsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T06:51:01.062Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

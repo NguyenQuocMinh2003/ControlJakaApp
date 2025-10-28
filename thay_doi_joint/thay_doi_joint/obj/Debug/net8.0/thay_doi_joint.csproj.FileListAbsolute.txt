@@ -1,0 +1,14 @@
+D:\Downloads\Vs_tim'\thay_doi_joint\thay_doi_joint\obj\Debug\net8.0\thay_doi_joint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Vs_tim'\thay_doi_joint\thay_doi_joint\obj\Debug\net8.0\thay_doi_joint.AssemblyInfoInputs.cache
+D:\Downloads\Vs_tim'\thay_doi_joint\thay_doi_joint\obj\Debug\net8.0\thay_doi_joint.AssemblyInfo.cs
+D:\Downloads\Vs_tim'\thay_doi_joint\thay_doi_joint\obj\Debug\net8.0\thay_doi_joint.csproj.CoreCompileInputs.cache
+D:\Downloads\Vs_tim'\thay_doi_joint\thay_doi_joint\bin\Debug\net8.0\thay_doi_joint.exe
+D:\Downloads\Vs_tim'\thay_doi_joint\thay_doi_joint\bin\Debug\net8.0\thay_doi_joint.deps.json
+D:\Downloads\Vs_tim'\thay_doi_joint\thay_doi_joint\bin\Debug\net8.0\thay_doi_joint.runtimeconfig.json
+D:\Downloads\Vs_tim'\thay_doi_joint\thay_doi_joint\bin\Debug\net8.0\thay_doi_joint.dll
+D:\Downloads\Vs_tim'\thay_doi_joint\thay_doi_joint\bin\Debug\net8.0\thay_doi_joint.pdb
+D:\Downloads\Vs_tim'\thay_doi_joint\thay_doi_joint\obj\Debug\net8.0\thay_doi_joint.dll
+D:\Downloads\Vs_tim'\thay_doi_joint\thay_doi_joint\obj\Debug\net8.0\refint\thay_doi_joint.dll
+D:\Downloads\Vs_tim'\thay_doi_joint\thay_doi_joint\obj\Debug\net8.0\thay_doi_joint.pdb
+D:\Downloads\Vs_tim'\thay_doi_joint\thay_doi_joint\obj\Debug\net8.0\thay_doi_joint.genruntimeconfig.cache
+D:\Downloads\Vs_tim'\thay_doi_joint\thay_doi_joint\obj\Debug\net8.0\ref\thay_doi_joint.dll
