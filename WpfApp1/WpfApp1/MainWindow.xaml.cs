@@ -5,6 +5,7 @@ using System.Windows;
 using jakaApi;
 using jkType;
 //testttt git lan 2
+//thang here
 namespace WpfApp1
 {
     public partial class MainWindow : Window
