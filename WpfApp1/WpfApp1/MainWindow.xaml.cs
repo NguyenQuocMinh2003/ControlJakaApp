@@ -8,6 +8,7 @@ using jkType;
 //thang here
 //minhhh lan 3
 //thang da o day 
+//minh lan 4
 namespace WpfApp1
 {
     public partial class MainWindow : Window
