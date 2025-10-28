@@ -5,7 +5,7 @@ using System.Windows;
 using jakaApi;
 using jkType;
 //cmt lan 1
-
+//cmt lan 2
 
 
 
