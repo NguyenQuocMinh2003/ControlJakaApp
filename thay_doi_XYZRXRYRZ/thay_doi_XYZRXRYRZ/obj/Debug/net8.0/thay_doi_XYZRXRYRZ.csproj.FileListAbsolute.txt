@@ -1,0 +1,14 @@
+D:\Downloads\Vs_tim'\thay_doi_XYZRXRYRZ\thay_doi_XYZRXRYRZ\bin\Debug\net8.0\thay_doi_XYZRXRYRZ.exe
+D:\Downloads\Vs_tim'\thay_doi_XYZRXRYRZ\thay_doi_XYZRXRYRZ\bin\Debug\net8.0\thay_doi_XYZRXRYRZ.deps.json
+D:\Downloads\Vs_tim'\thay_doi_XYZRXRYRZ\thay_doi_XYZRXRYRZ\bin\Debug\net8.0\thay_doi_XYZRXRYRZ.runtimeconfig.json
+D:\Downloads\Vs_tim'\thay_doi_XYZRXRYRZ\thay_doi_XYZRXRYRZ\bin\Debug\net8.0\thay_doi_XYZRXRYRZ.dll
+D:\Downloads\Vs_tim'\thay_doi_XYZRXRYRZ\thay_doi_XYZRXRYRZ\bin\Debug\net8.0\thay_doi_XYZRXRYRZ.pdb
+D:\Downloads\Vs_tim'\thay_doi_XYZRXRYRZ\thay_doi_XYZRXRYRZ\obj\Debug\net8.0\thay_doi_XYZRXRYRZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Vs_tim'\thay_doi_XYZRXRYRZ\thay_doi_XYZRXRYRZ\obj\Debug\net8.0\thay_doi_XYZRXRYRZ.AssemblyInfoInputs.cache
+D:\Downloads\Vs_tim'\thay_doi_XYZRXRYRZ\thay_doi_XYZRXRYRZ\obj\Debug\net8.0\thay_doi_XYZRXRYRZ.AssemblyInfo.cs
+D:\Downloads\Vs_tim'\thay_doi_XYZRXRYRZ\thay_doi_XYZRXRYRZ\obj\Debug\net8.0\thay_doi_XYZRXRYRZ.csproj.CoreCompileInputs.cache
+D:\Downloads\Vs_tim'\thay_doi_XYZRXRYRZ\thay_doi_XYZRXRYRZ\obj\Debug\net8.0\thay_doi_XYZRXRYRZ.dll
+D:\Downloads\Vs_tim'\thay_doi_XYZRXRYRZ\thay_doi_XYZRXRYRZ\obj\Debug\net8.0\refint\thay_doi_XYZRXRYRZ.dll
+D:\Downloads\Vs_tim'\thay_doi_XYZRXRYRZ\thay_doi_XYZRXRYRZ\obj\Debug\net8.0\thay_doi_XYZRXRYRZ.pdb
+D:\Downloads\Vs_tim'\thay_doi_XYZRXRYRZ\thay_doi_XYZRXRYRZ\obj\Debug\net8.0\thay_doi_XYZRXRYRZ.genruntimeconfig.cache
+D:\Downloads\Vs_tim'\thay_doi_XYZRXRYRZ\thay_doi_XYZRXRYRZ\obj\Debug\net8.0\ref\thay_doi_XYZRXRYRZ.dll
